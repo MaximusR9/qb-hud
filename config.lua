@@ -141,5 +141,5 @@ Config.Menu = {
     isPointerShowChecked = true, -- isPointerShowChecked
     isDegreesShowChecked = true, -- isDegreesShowChecked
     isCineamticModeChecked = false, -- isCineamticModeChecked
-    isToggleMapShapeChecked = 'square', -- isToggleMapShapeChecked
+    isToggleMapShapeChecked = 'circle', -- isToggleMapShapeChecked
 }
